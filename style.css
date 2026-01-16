@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    flex-direction: column;
+    /* background-color: #1F2937; */
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    background-color: #1F2937;
+    color: white;
+
+}
+
+.intro {
+    background-color: #1F2937;
+    color: white;
+}
+
+.content {
+    background-color: white;
+    margin-top: 32px;
+}
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+}
