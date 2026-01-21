@@ -91,10 +91,15 @@ header.logo {
     align-items: center;
 }
 
-.quote {
-    margin: 30px 0;
+.quote-wrapper {
     background-color: #e5e7eb;
+}
+
+.quote {
     font-style: italic;
+    width: 100%;
+    max-width: 1200px;
+    margin: 32px auto;
     padding-left: 15dvh;
     padding-right: 15dvh;
 }
